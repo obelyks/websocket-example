@@ -1,10 +1,12 @@
 # websocket-example
 
-A Clojure library designed to ... well, that part is up to you.
+how to use websocket in clojure  httpkit server and plain javascript
 
 ## Usage
 
-FIXME
+start server by executin body of the main function
+open test.html file in two different browsers and send it by  button: both browsers shuold be updated
+stop server by created function
 
 ## License
 
